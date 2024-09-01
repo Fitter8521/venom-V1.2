@@ -12,7 +12,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 - **Broadcast Messages**: Admins can send messages to all authorized users.
 
 ## Prerequisites
--github codespaces ( 8 core)
+-github codespaces ( 4 core)
 - Python 3.x
 - `telebot` library
 - Telegram Bot Token (You Can Use Botfather)
